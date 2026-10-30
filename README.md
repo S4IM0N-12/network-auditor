@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ## USO
 
 ```bash
-python3 main.py -h
+python3 OmniScan.py -h
 Uso: python3 OmniScan.py [-h] [-t] [-p] [-w] [-o]
 
 options:
